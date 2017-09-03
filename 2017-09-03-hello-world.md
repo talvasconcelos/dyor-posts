@@ -1,3 +1,11 @@
+---
+title: Caesar fuit Aurora salute
+description: The non-programmer's guide to creating a Jekyll blog post using only the GitHub web interface.
+author: Tiago Vasconcelos
+category: blog
+layout: post
+---
+
 # Caesar fuit Aurora salute
 
 ## Stridentibus illi Dardanio
