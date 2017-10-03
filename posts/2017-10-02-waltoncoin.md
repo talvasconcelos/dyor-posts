@@ -1,5 +1,5 @@
 ---
-title: WaltonChain review. Blockchain for the IoT
+title: WaltonCoin review. Blockchain for the IoT
 author: Tiago Vasconcelos
 marketcap_tag: walton
 ---
